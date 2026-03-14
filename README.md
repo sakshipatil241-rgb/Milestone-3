@@ -84,9 +84,9 @@ temperature=0
 - Context-only answering
 - Low temperature setting
 - Limited retrieval window
-
+## 🔹 Module 3:Conversational Interface
 AI Based Document Search and Knowledge Retrieval with Conversational Interface
-Milestone 3 – Conversational Interface
+
 📌 Project Overview
 
 This milestone focuses on developing a conversational chatbot interface that allows users to interact with a knowledge base using natural language queries.
